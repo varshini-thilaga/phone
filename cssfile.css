@@ -5,6 +5,7 @@
     box-sizing:border-box;
     font-family:'poppins',sans-serif;
 }
+
 #navbar{
     position:sticky;
     top:0;
