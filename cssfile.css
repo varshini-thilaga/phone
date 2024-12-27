@@ -122,6 +122,7 @@ section{
     align-items:center;
     margin: 20px 60px;
 }
+
 .card:hover{
     box-shadow: 15px 20px 20px rgba(0,0,0,.3);
 }
